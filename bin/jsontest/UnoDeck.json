@@ -1,0 +1,384 @@
+{
+  "cartes" : [
+    {
+      "valeur" : "0",
+      "couleur" : "rouge"
+      
+      
+    },
+    {
+      "valeur" : "1",
+      "couleur" : "rouge"
+     
+    },
+    {
+      "valeur" : "2",
+      "couleur" : "rouge"
+     
+    },
+    {
+      "valeur" : "3",
+      "couleur" : "rouge"
+     
+    },
+    {
+      "valeur" : "4",
+      "couleur" : "rouge"
+     
+    },
+    {
+      "valeur" : "5",
+      "couleur" : "rouge"
+     
+    },
+    {
+      "valeur" : "6",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "7",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "8",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "9",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "bloquer",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "inverser",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "+2",
+      "couleur" : "rouge"
+     
+    },
+    {
+      "valeur" : "1",
+      "couleur" : "rouge"
+     
+    },
+    {
+      "valeur" : "2",
+      "couleur" : "rouge"
+     
+    },
+    {
+      "valeur" : "3",
+      "couleur" : "rouge"
+     
+    },
+    {
+      "valeur" : "4",
+      "couleur" : "rouge"
+     
+    },
+    {
+      "valeur" : "5",
+      "couleur" : "rouge"
+     
+    },
+    {
+      "valeur" : "6",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "7",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "8",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "9",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "bloquer",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "inverser",
+      "couleur" : "rouge"
+     
+    },
+       {
+      "valeur" : "+2",
+      "couleur" : "rouge"
+     
+    },
+      {
+      "valeur" : "0",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "1",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "2",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "3",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "4",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "5",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "6",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "7",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "8",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "9",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "bloquer",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "inverser",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "+2",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "1",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "2",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "3",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "4",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "5",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "6",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "7",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "8",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "9",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "bloquer",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "inverser",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "+2",
+      "couleur" : "jaune"
+    },{
+      "valeur" : "0",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "1",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "2",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "3",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "4",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "5",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "6",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "7",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "8",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "9",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "bloquer",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "inverser",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "+2",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "1",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "2",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "3",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "4",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "5",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "6",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "7",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "8",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "9",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "bloquer",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "inverser",
+      "couleur" : "bleu"
+    },{
+      "valeur" : "+2",
+      "couleur" : "bleu"
+    }, 
+      {
+      "valeur" : "0",
+      "couleur" : "vert"
+    },{
+      "valeur" : "1",
+      "couleur" : "vert"
+    },{
+      "valeur" : "2",
+      "couleur" : "vert"
+    },{
+      "valeur" : "3",
+      "couleur" : "vert"
+    },{
+      "valeur" : "4",
+      "couleur" : "vert"
+    },{
+      "valeur" : "5",
+      "couleur" : "vert"
+    },{
+      "valeur" : "6",
+      "couleur" : "vert"
+    },{
+      "valeur" : "7",
+      "couleur" : "vert"
+    },{
+      "valeur" : "8",
+      "couleur" : "vert"
+    },{
+      "valeur" : "9",
+      "couleur" : "vert"
+    },{
+      "valeur" : "bloquer",
+      "couleur" : "vert"
+    },{
+      "valeur" : "inverser",
+      "couleur" : "vert"
+    },{
+      "valeur" : "+2",
+      "couleur" : "vert"
+    },{
+      "valeur" : "1",
+      "couleur" : "vert"
+    },{
+      "valeur" : "2",
+      "couleur" : "vert"
+    },{
+      "valeur" : "3",
+      "couleur" : "vert"
+    },{
+      "valeur" : "4",
+      "couleur" : "vert"
+    },{
+      "valeur" : "5",
+      "couleur" : "vert"
+    },{
+      "valeur" : "6",
+      "couleur" : "vert"
+    },{
+      "valeur" : "7",
+      "couleur" : "vert"
+    },{
+      "valeur" : "8",
+      "couleur" : "vert"
+    },{
+      "valeur" : "9",
+      "couleur" : "vert"
+    },{
+      "valeur" : "bloquer",
+      "couleur" : "vert"
+    },{
+      "valeur" : "inverser",
+      "couleur" : "vert"
+    },{
+      "valeur" : "+2",
+      "couleur" : "vert"
+    },
+      {
+      "valeur" : "+4",
+      "couleur" : "multicolor"
+    },{
+      "valeur" : "+4",
+      "couleur" : "multicolor"
+    },{
+      "valeur" : "+4",
+      "couleur" : "multicolor"
+    },{
+      "valeur" : "+4",
+      "couleur" : "multicolor"
+    },{
+      "valeur" : "joker",
+      "couleur" : "multicolor"
+    },{
+      "valeur" : "joker",
+      "couleur" : "multicolor"
+    },{
+      "valeur" : "joker",
+      "couleur" : "multicolor"
+    },{
+      "valeur" : "joker",
+      "couleur" : "multicolor"
+    }
+      
+
+  ]
+}

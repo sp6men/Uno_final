@@ -1,0 +1,568 @@
+
+//       function JouerJJ() {
+//        console.log("okokokok")
+//          
+//          
+//            
+//      /*BOUTONCARTE1J1.onclick = */function RESTRICTIONS(){
+//           /*testTABLEAU = CARTE1J1;*/
+//            console.log("transferé")
+//        if (testTABLEAU2.length == 0 ){
+//            let b = CARTE1J2.splice(0,1)
+//            testTABLEAU2.push(b)
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//            BOUTONCARTE1J2.value = CARTE1J2;
+//            }    
+//       else if (testTABLEAU == "0 jaune" && testTABLEAU2 == "0 jaune" || testTABLEAU == "0 jaune" && testTABLEAU2 == "1 jaune"|| testTABLEAU == "0 jaune" && testTABLEAU2 == "2 jaune" || testTABLEAU == "0 jaune" && testTABLEAU2 == "3 jaune" || testTABLEAU == "0 jaune" && testTABLEAU2 == "4 jaune" || testTABLEAU == "0 jaune" && testTABLEAU2 == "5 jaune" || testTABLEAU == "0 jaune" && testTABLEAU2 == "6 jaune" || testTABLEAU == "0 jaune" && testTABLEAU2 == "7 jaune" || testTABLEAU == "0 jaune" && testTABLEAU2 == "8 jaune" || testTABLEAU == "0 jaune" && testTABLEAU2 == "9 jaune" || testTABLEAU == "0 jaune" && testTABLEAU2 == "bloquer jaune" || testTABLEAU == "0 jaune" && testTABLEAU2 == "inverser jaune" || testTABLEAU == "0 jaune" && testTABLEAU2 == "bloquer jaune"|| testTABLEAU == "0 jaune" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "0 jaune" ||  testTABLEAU == "1 jaune" && testTABLEAU2 == "1 jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "2 jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "3 jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "4 jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "5 jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "6 jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "7 jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "8 jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "9 jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "bloquer jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "inverser jaune" || testTABLEAU == "1 jaune" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "0 jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "1 jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "2 jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "3 jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "4 jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "5 jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "6 jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "7 jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "8 jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "9 jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "bloquer jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "inverser jaune" || testTABLEAU == "2 jaune" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "0 jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "1 jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "2 jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "3 jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "4 jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "5 jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "6 jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "7 jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "8 jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "9 jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "inverser jaune" || testTABLEAU == "3 jaune" && testTABLEAU2 == "bloquer jaune"|| testTABLEAU == "3 jaune" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "0 jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "1 jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "2 jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "3 jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "4 jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "5 jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "6 jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "7 jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "8 jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "9 jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "inverser jaune" || testTABLEAU == "4 jaune" && testTABLEAU2 == "bloquer jaune"|| testTABLEAU == "4 jaune" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "0 jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "1 jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "2 jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "3 jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "4 jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "5 jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "6 jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "7 jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "8 jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "9 jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "inverser jaune" || testTABLEAU == "5 jaune" && testTABLEAU2 == "bloquer jaune"|| testTABLEAU == "5 jaune" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "0 jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "1 jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "2 jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "3 jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "4 jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "5 jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "6 jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "7 jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "8 jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "9 jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "inverser jaune" || testTABLEAU == "6 jaune" && testTABLEAU2 == "bloquer jaune"|| testTABLEAU == "6 jaune" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "0 jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "1 jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "2 jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "3 jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "4 jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "5 jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "6 jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "7 jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "8 jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "9 jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "inverser jaune" || testTABLEAU == "7 jaune" && testTABLEAU2 == "bloquer jaune"|| testTABLEAU == "7 jaune" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "0 jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "1 jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "2 jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "3 jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "4 jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "5 jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "6 jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "7 jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "8 jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "9 jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "inverser jaune" || testTABLEAU == "8 jaune" && testTABLEAU2 == "bloquer jaune"|| testTABLEAU == "8 jaune" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "0 jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "1 jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "2 jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "3 jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "4 jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "5 jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "6 jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "7 jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "8 jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "9 jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "bloquer jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "inverser jaune" || testTABLEAU == "9 jaune" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "0 bleu" && testTABLEAU2 == "0 bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "1 bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "2 bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "3 bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "4 bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "5 bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "6 bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "7 bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "8 bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "9 bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "bloquer bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "inverser bleu" || testTABLEAU == "0 bleu" && testTABLEAU2 == "bloquer bleu"|| testTABLEAU == "0 bleu" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "0 bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "1 bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "2 bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "3 bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "4 bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "5 bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "6 bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "7 bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "8 bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "9 bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "bloquer bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "inverser bleu" || testTABLEAU == "1 bleu" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "0 bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "1 bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "2 bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "3 bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "4 bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "5 bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "6 bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "7 bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "8 bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "9 bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "bloquer bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "inverser bleu" || testTABLEAU == "2 bleu" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "0 bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "1 bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "2 bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "3 bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "4 bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "5 bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "6 bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "7 bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "8 bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "9 bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "inverser bleu" || testTABLEAU == "3 bleu" && testTABLEAU2 == "bloquer bleu"|| testTABLEAU == "3 bleu" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "0 bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "1 bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "2 bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "3 bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "4 bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "5 bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "6 bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "7 bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "8 bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "9 bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "inverser bleu" || testTABLEAU == "4 bleu" && testTABLEAU2 == "bloquer bleu"|| testTABLEAU == "4 bleu" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "0 bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "1 bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "2 bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "3 bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "4 bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "5 bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "6 bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "7 bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "8 bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "9 bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "inverser bleu" || testTABLEAU == "5 bleu" && testTABLEAU2 == "bloquer bleu"|| testTABLEAU == "5 bleu" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "0 bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "1 bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "2 bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "3 bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "4 bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "5 bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "6 bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "7 bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "8 bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "9 bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "inverser bleu" || testTABLEAU == "6 bleu" && testTABLEAU2 == "bloquer bleu"|| testTABLEAU == "6 bleu" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "0 bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "1 bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "2 bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "3 bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "4 bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "5 bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "6 bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "7 bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "8 bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "9 bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "inverser bleu" || testTABLEAU == "7 bleu" && testTABLEAU2 == "bloquer bleu"|| testTABLEAU == "7 bleu" && testTABLEAU2 == "+2 bleu"|| testTABLEAU == "8 bleu" && testTABLEAU2 == "0 bleu" || testTABLEAU == "8 bleu" && testTABLEAU2 == "1 bleu" || testTABLEAU == "8 bleu" && testTABLEAU2 == "2 bleu" || testTABLEAU == "8 bleu" && testTABLEAU2 == "3 bleu" || testTABLEAU == "8 bleu" && testTABLEAU2 == "4 bleu" || testTABLEAU == "8 bleu" && testTABLEAU2 == "5 bleu" || testTABLEAU == "8 bleu" && testTABLEAU2 == "6 bleu" || testTABLEAU == "8 bleu" && testTABLEAU2 == "7 bleu" || testTABLEAU == "8 bleu" && testTABLEAU2 == "8 bleu" || testTABLEAU == "8 bleu" && testTABLEAU2 == "9 bleu" || testTABLEAU == "8 bleu" && testTABLEAU2 == "inverser bleu" || testTABLEAU == "8 bleu" && testTABLEAU2 == "bloquer bleu"|| testTABLEAU == "8 bleu" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "0 bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "1 bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "2 bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "3 bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "4 bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "5 bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "6 bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "7 bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "8 bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "9 bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "bloquer bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "inverser bleu" || testTABLEAU == "9 bleu" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "0 rouge" && testTABLEAU2 == "0 rouge" || testTABLEAU == "0 rouge" && testTABLEAU2 == "1 rouge"|| testTABLEAU == "0 rouge" && testTABLEAU2 == "2 rouge" || testTABLEAU == "0 rouge" && testTABLEAU2 == "3 rouge" || testTABLEAU == "0 rouge" && testTABLEAU2 == "4 rouge" || testTABLEAU == "0 rouge" && testTABLEAU2 == "5 rouge" || testTABLEAU == "0 rouge" && testTABLEAU2 == "6 rouge" || testTABLEAU == "0 rouge" && testTABLEAU2 == "7 rouge" || testTABLEAU == "0 rouge" && testTABLEAU2 == "8 rouge" || testTABLEAU == "0 rouge" && testTABLEAU2 == "9 rouge" || testTABLEAU == "0 rouge" && testTABLEAU2 == "bloquer rouge" || testTABLEAU == "0 rouge" && testTABLEAU2 == "inverser rouge" || testTABLEAU == "0 rouge" && testTABLEAU2 == "bloquer rouge"|| testTABLEAU == "0 rouge" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "0 rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "1 rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "2 rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "3 rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "4 rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "5 rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "6 rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "7 rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "8 rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "9 rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "bloquer rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "inverser rouge" || testTABLEAU == "1 rouge" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "0 rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "1 rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "2 rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "3 rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "4 rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "5 rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "6 rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "7 rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "8 rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "9 rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "bloquer rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "inverser rouge" || testTABLEAU == "2 rouge" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "0 rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "1 rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "2 rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "3 rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "4 rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "5 rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "6 rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "7 rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "8 rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "9 rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "inverser rouge" || testTABLEAU == "3 rouge" && testTABLEAU2 == "bloquer rouge"|| testTABLEAU == "3 rouge" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "0 rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "1 rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "2 rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "3 rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "4 rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "5 rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "6 rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "7 rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "8 rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "9 rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "inverser rouge" || testTABLEAU == "4 rouge" && testTABLEAU2 == "bloquer rouge"|| testTABLEAU == "4 rouge" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "0 rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "1 rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "2 rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "3 rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "4 rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "5 rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "6 rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "7 rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "8 rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "9 rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "inverser rouge" || testTABLEAU == "5 rouge" && testTABLEAU2 == "bloquer rouge"|| testTABLEAU == "5 rouge" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "0 rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "1 rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "2 rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "3 rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "4 rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "5 rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "6 rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "7 rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "8 rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "9 rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "inverser rouge" || testTABLEAU == "6 rouge" && testTABLEAU2 == "bloquer rouge"|| testTABLEAU == "6 rouge" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "0 rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "1 rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "2 rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "3 rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "4 rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "5 rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "6 rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "7 rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "8 rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "9 rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "inverser rouge" || testTABLEAU == "7 rouge" && testTABLEAU2 == "bloquer rouge"|| testTABLEAU == "7 rouge" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "0 rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "1 rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "2 rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "3 rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "4 rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "5 rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "6 rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "7 rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "8 rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "9 rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "inverser rouge" || testTABLEAU == "8 rouge" && testTABLEAU2 == "bloquer rouge"|| testTABLEAU == "8 rouge" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "0 rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "1 rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "2 rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "3 rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "4 rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "5 rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "6 rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "7 rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "8 rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "9 rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "bloquer rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "inverser rouge" || testTABLEAU == "9 rouge" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "0 vert" && testTABLEAU2 == "0 vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "1 vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "2 vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "3 vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "4 vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "5 vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "6 vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "7 vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "8 vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "9 vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "bloquer vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "inverser vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "bloquer vert"|| testTABLEAU == "0 vert" && testTABLEAU2 == "+2 vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "0 vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "1 vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "2 vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "3 vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "4 vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "5 vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "6 vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "7 vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "8 vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "9 vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "bloquer vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "inverser vert" || testTABLEAU == "1 vert" && testTABLEAU2 == "+2 vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "0 vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "1 vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "2 vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "3 vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "4 vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "5 vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "6 vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "7 vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "8 vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "9 vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "bloquer vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "inverser vert" || testTABLEAU == "2 vert" && testTABLEAU2 == "+2 vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "0 vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "1 vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "2 vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "3 vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "4 vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "5 vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "6 vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "7 vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "8 vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "9 vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "inverser vert" || testTABLEAU == "3 vert" && testTABLEAU2 == "bloquer vert"|| testTABLEAU == "3 vert" && testTABLEAU2 == "+2 vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "0 vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "1 vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "2 vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "3 vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "4 vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "5 vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "6 vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "7 vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "8 vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "9 vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "inverser vert" || testTABLEAU == "4 vert" && testTABLEAU2 == "bloquer vert"|| testTABLEAU == "4 vert" && testTABLEAU2 == "+2 vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "0 vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "1 vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "2 vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "3 vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "4 vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "5 vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "6 vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "7 vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "8 vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "9 vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "inverser vert" || testTABLEAU == "5 vert" && testTABLEAU2 == "bloquer vert"|| testTABLEAU == "5 vert" && testTABLEAU2 == "+2 vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "0 vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "1 vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "2 vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "3 vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "4 vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "5 vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "6 vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "7 vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "8 vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "9 vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "inverser vert" || testTABLEAU == "6 vert" && testTABLEAU2 == "bloquer vert"|| testTABLEAU == "6 vert" && testTABLEAU2 == "+2 vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "0 vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "1 vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "2 vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "3 vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "4 vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "5 vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "6 vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "7 vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "8 vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "9 vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "inverser vert" || testTABLEAU == "7 vert" && testTABLEAU2 == "bloquer vert"|| testTABLEAU == "7 vert" && testTABLEAU2 == "+2 vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "0 vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "1 vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "2 vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "3 vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "4 vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "5 vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "6 vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "7 vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "8 vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "9 vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "inverser vert" || testTABLEAU == "8 vert" && testTABLEAU2 == "bloquer vert"|| testTABLEAU == "8 vert" && testTABLEAU2 == "+2 vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "0 vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "1 vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "2 vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "3 vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "4 vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "5 vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "6 vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "7 vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "8 vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "9 vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "bloquer vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "inverser vert" || testTABLEAU == "9 vert" && testTABLEAU2 == "+2 vert" || testTABLEAU == "0 jaune" && testTABLEAU2 == "0 bleu" || testTABLEAU == "0 jaune" && testTABLEAU2 == "0 rouge" || testTABLEAU == "0 jaune" && testTABLEAU2 == "0 vert" || testTABLEAU == "1 jaune" && testTABLEAU2 == "1 bleu" || testTABLEAU == "1 jaune" && testTABLEAU2 == "1 rouge" || testTABLEAU == "1 jaune" && testTABLEAU2 == "1 vert" || testTABLEAU == "2 jaune" && testTABLEAU2 == "2 bleu" || testTABLEAU == "2 jaune" && testTABLEAU2 == "2 rouge" || testTABLEAU == "2 jaune" && testTABLEAU2 == "2 vert" || testTABLEAU == "3 jaune" && testTABLEAU2 == "3 bleu" || testTABLEAU == "3 jaune" && testTABLEAU2 == "3 rouge" || testTABLEAU == "3 jaune" && testTABLEAU2 == "3 vert" || testTABLEAU == "4 jaune" && testTABLEAU2 == "4 bleu" || testTABLEAU == "4 jaune" && testTABLEAU2 == "4 rouge"|| testTABLEAU == "4 jaune" && testTABLEAU2 == "4 vert"|| testTABLEAU == "5 jaune" && testTABLEAU2 == "5 bleu"|| testTABLEAU == "5 jaune" && testTABLEAU2 == "5 rouge"|| testTABLEAU == "5 jaune" && testTABLEAU2 == "5 vert"|| testTABLEAU == "6 jaune" && testTABLEAU2 == "6 bleu"|| testTABLEAU == "6 jaune" && testTABLEAU2 == "6 rouge"|| testTABLEAU == "6 jaune" && testTABLEAU2 == "6 vert"|| testTABLEAU == "7 jaune" && testTABLEAU2 == "7 bleu"|| testTABLEAU == "7 jaune" && testTABLEAU2 == "7 rouge"|| testTABLEAU == "7 jaune" && testTABLEAU2 == "7 vert"|| testTABLEAU == "8 jaune" && testTABLEAU2 == "8 bleu"|| testTABLEAU == "8 jaune" && testTABLEAU2 == "8 rouge"|| testTABLEAU == "8 jaune" && testTABLEAU2 == "8 vert"|| testTABLEAU == "9 jaune" && testTABLEAU2 == "9 bleu"|| testTABLEAU == "9 jaune" && testTABLEAU2 == "9 rouge" || testTABLEAU == "9 jaune" && testTABLEAU2 == "9 vert"|| testTABLEAU == "inverser jaune" && testTABLEAU2 == "inverser bleu"|| testTABLEAU == "inverser jaune" && testTABLEAU2 == "inverser rouge"|| testTABLEAU == "inverser jaune" && testTABLEAU2 == "inverser vert"|| testTABLEAU == "bloquer jaune" && testTABLEAU2 == "bloquer bleu" || testTABLEAU == "bloquer jaune" && testTABLEAU2 == "bloquer rouge" || testTABLEAU == "bloquer jaune" && testTABLEAU2 == "bloquer vert" || testTABLEAU == "+2 jaune" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "+2 jaune" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "+2 jaune" && testTABLEAU2 == "+2 vert" || testTABLEAU == "0 bleu" && testTABLEAU2 == "0 jaune" || testTABLEAU == "0 bleu" && testTABLEAU2 == "0 rouge" || testTABLEAU == "0 bleu" && testTABLEAU2 == "0 vert" || testTABLEAU == "1 bleu" && testTABLEAU2 == "1 jaune" || testTABLEAU == "1 bleu" && testTABLEAU2 == "1 rouge" || testTABLEAU == "1 bleu" && testTABLEAU2 == "1 vert" || testTABLEAU == "2 bleu" && testTABLEAU2 == "2 jaune" || testTABLEAU == "2 bleu" && testTABLEAU2 == "2 rouge" || testTABLEAU == "2 bleu" && testTABLEAU2 == "2 vert" || testTABLEAU == "3 bleu" && testTABLEAU2 == "3 jaune" || testTABLEAU == "3 bleu" && testTABLEAU2 == "3 rouge" || testTABLEAU == "3 bleu" && testTABLEAU2 == "3 vert" || testTABLEAU == "4 bleu" && testTABLEAU2 == "4 jaune" || testTABLEAU == "4 bleu" && testTABLEAU2 == "4 rouge"|| testTABLEAU == "4 bleu" && testTABLEAU2 == "4 vert"|| testTABLEAU == "5 bleu" && testTABLEAU2 == "5 jaune"|| testTABLEAU == "5 bleu" && testTABLEAU2 == "5 rouge"|| testTABLEAU == "5 bleu" && testTABLEAU2 == "5 vert"|| testTABLEAU == "6 bleu" && testTABLEAU2 == "6 jaune"|| testTABLEAU == "6 bleu" && testTABLEAU2 == "6 rouge"|| testTABLEAU == "6 bleu" && testTABLEAU2 == "6 vert"|| testTABLEAU == "7 bleu" && testTABLEAU2 == "7 jaune"|| testTABLEAU == "7 bleu" && testTABLEAU2 == "7 rouge"|| testTABLEAU == "7 bleu" && testTABLEAU2 == "7 vert"|| testTABLEAU == "8 bleu" && testTABLEAU2 == "8 jaune"|| testTABLEAU == "8 bleu" && testTABLEAU2 == "8 rouge"|| testTABLEAU == "8 bleu" && testTABLEAU2 == "8 vert"|| testTABLEAU == "9 bleu" && testTABLEAU2 == "9 jaune"|| testTABLEAU == "9 bleu" && testTABLEAU2 == "9 rouge"|| testTABLEAU == "9 bleu" && testTABLEAU2 == "9 vert"|| testTABLEAU == "inverser bleu" && testTABLEAU2 == "inverser jaune"|| testTABLEAU == "inverser bleu" && testTABLEAU2 == "inverser rouge"|| testTABLEAU == "inverser bleu" && testTABLEAU2 == "inverser vert"|| testTABLEAU == "bloquer bleu" && testTABLEAU2 == "bloquer jaune" || testTABLEAU == "bloquer bleu" && testTABLEAU2 == "bloquer rouge" || testTABLEAU == "bloquer bleu" && testTABLEAU2 == "bloquer vert" || testTABLEAU == "+2 bleu" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "+2 bleu" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "+2 bleu" && testTABLEAU2 == "+2 vert" || testTABLEAU == "0 rouge" && testTABLEAU2 == "0 bleu" || testTABLEAU == "0 rouge" && testTABLEAU2 == "0 jaune" || testTABLEAU == "0 rouge" && testTABLEAU2 == "0 vert" || testTABLEAU == "1 rouge" && testTABLEAU2 == "1 bleu" || testTABLEAU == "1 rouge" && testTABLEAU2 == "1 jaune" || testTABLEAU == "1 rouge" && testTABLEAU2 == "1 vert" || testTABLEAU == "2 rouge" && testTABLEAU2 == "2 bleu" || testTABLEAU == "2 rouge" && testTABLEAU2 == "2 jaune" || testTABLEAU == "2 rouge" && testTABLEAU2 == "2 vert" || testTABLEAU == "3 rouge" && testTABLEAU2 == "3 bleu" || testTABLEAU == "3 rouge" && testTABLEAU2 == "3 jaune" || testTABLEAU == "3 rouge" && testTABLEAU2 == "3 vert" || testTABLEAU == "4 rouge" && testTABLEAU2 == "4 bleu" || testTABLEAU == "4 rouge" && testTABLEAU2 == "4 jaune"|| testTABLEAU == "4 rouge" && testTABLEAU2 == "4 vert"|| testTABLEAU == "5 rouge" && testTABLEAU2 == "5 bleu"|| testTABLEAU == "5 rouge" && testTABLEAU2 == "5 jaune"|| testTABLEAU == "5 rouge" && testTABLEAU2 == "5 vert"|| testTABLEAU == "6 rouge" && testTABLEAU2 == "6 bleu"|| testTABLEAU == "6 rouge" && testTABLEAU2 == "6 jaune"|| testTABLEAU == "6 rouge" && testTABLEAU2 == "6 vert"|| testTABLEAU == "7 rouge" && testTABLEAU2 == "7 bleu"|| testTABLEAU == "7 rouge" && testTABLEAU2 == "7 jaune"|| testTABLEAU == "7 rouge" && testTABLEAU2 == "7 vert"|| testTABLEAU == "8 rouge" && testTABLEAU2 == "8 bleu"|| testTABLEAU == "8 rouge" && testTABLEAU2 == "8 jaune"|| testTABLEAU == "8 rouge" && testTABLEAU2 == "8 vert"|| testTABLEAU == "9 rouge" && testTABLEAU2 == "9 bleu"|| testTABLEAU == "9 rouge" && testTABLEAU2 == "9 jaune"|| testTABLEAU == "9 rouge" && testTABLEAU2 == "9 vert"|| testTABLEAU == "inverser rouge" && testTABLEAU2 == "inverser bleu"|| testTABLEAU == "inverser rouge" && testTABLEAU2 == "inverser jaune"|| testTABLEAU == "inverser rouge" && testTABLEAU2 == "inverser vert"|| testTABLEAU == "bloquer rouge" && testTABLEAU2 == "bloquer bleu" || testTABLEAU == "bloquer rouge" && testTABLEAU2 == "bloquer jaune" || testTABLEAU == "bloquer rouge" && testTABLEAU2 == "bloquer vert" || testTABLEAU == "+2 rouge" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "+2 rouge" && testTABLEAU2 == "+2 jaune" || testTABLEAU == "+2 rouge" && testTABLEAU2 == "+2 vert" || testTABLEAU == "0 vert" && testTABLEAU2 == "0 bleu" || testTABLEAU == "0 vert" && testTABLEAU2 == "0 rouge" || testTABLEAU == "0 vert" && testTABLEAU2 == "0 jaune" || testTABLEAU == "1 vert" && testTABLEAU2 == "1 bleu" || testTABLEAU == "1 vert" && testTABLEAU2 == "1 rouge" || testTABLEAU == "1 vert" && testTABLEAU2 == "1 jaune" || testTABLEAU == "2 vert" && testTABLEAU2 == "2 bleu" || testTABLEAU == "2 vert" && testTABLEAU2 == "2 rouge" || testTABLEAU == "2 vert" && testTABLEAU2 == "2 jaune" || testTABLEAU == "3 vert" && testTABLEAU2 == "3 bleu" || testTABLEAU == "3 vert" && testTABLEAU2 == "3 rouge" || testTABLEAU == "3 vert" && testTABLEAU2 == "3 jaune" || testTABLEAU == "4 vert" && testTABLEAU2 == "4 bleu" || testTABLEAU == "4 vert" && testTABLEAU2 == "4 rouge"|| testTABLEAU == "4 vert" && testTABLEAU2 == "4 jaune"|| testTABLEAU == "5 vert" && testTABLEAU2 == "5 bleu"|| testTABLEAU == "5 vert" && testTABLEAU2 == "5 rouge"|| testTABLEAU == "5 vert" && testTABLEAU2 == "5 jaune"|| testTABLEAU == "6 vert" && testTABLEAU2 == "6 bleu"|| testTABLEAU == "6 vert" && testTABLEAU2 == "6 rouge"|| testTABLEAU == "6 vert" && testTABLEAU2 == "6 jaune"|| testTABLEAU == "7 vert" && testTABLEAU2 == "7 bleu"|| testTABLEAU == "7 vert" && testTABLEAU2 == "7 rouge"|| testTABLEAU == "7 vert" && testTABLEAU2 == "7 jaune"|| testTABLEAU == "8 vert" && testTABLEAU2 == "8 bleu"|| testTABLEAU == "8 vert" && testTABLEAU2 == "8 rouge"|| testTABLEAU == "8 vert" && testTABLEAU2 == "8 jaune"|| testTABLEAU == "9 vert" && testTABLEAU2 == "9 bleu"|| testTABLEAU == "9 vert" && testTABLEAU2 == "9 rouge"|| testTABLEAU == "9 vert" && testTABLEAU2 == "9 jaune"|| testTABLEAU == "inverser vert" && testTABLEAU2 == "inverser bleu"|| testTABLEAU == "inverser vert" && testTABLEAU2 == "inverser rouge"|| testTABLEAU == "inverser vert" && testTABLEAU2 == "inverser jaune"|| testTABLEAU == "bloquer vert" && testTABLEAU2 == "bloquer bleu" || testTABLEAU == "bloquer vert" && testTABLEAU2 == "bloquer rouge" || testTABLEAU == "bloquer vert" && testTABLEAU2 == "bloquer jaune" || testTABLEAU == "+2 vert" && testTABLEAU2 == "+2 bleu" || testTABLEAU == "+2 vert" && testTABLEAU2 == "+2 rouge" || testTABLEAU == "+2 vert" && testTABLEAU2 == "+2 jaune"){ 
+//            console.log("okdak")
+//            let c = testTABLEAU2.splice(0,1);
+//            testTABLEAU3.push(c);
+//            document.getElementById("TABLEAU3").innerHTML = testTABLEAU3;
+//            BOUTONCARTE1J2.value = CARTE1J2;
+//          } 
+//        }
+//         BOUTONCARTE1J2.onclick = RESTRICTIONS;
+//    }
+//         JOUERJ2.onclick = JouerJJ;
+//        
+
+
+      
+  
+    
+    /* else if (testTABLEAU == '' && testTABLEAU2 == '' || testTABLEAU2 == '' && testTABLEAU == '' ) {
+        return true;
+    }*/
+    
+
+//      
+      
+
+      
+      
+       
+//       JOUERJ1.onclick = function JOUERJ1(){
+//           console.log("5/5")
+//           BOUTONCARTE1J1.onclick = function cliqueCarte(){
+//                 if(testTABLEAU.length == 0 && testTABLEAU2.length >=1) {
+//                   let b = CARTE1J1.splice(0,1)
+//                   testTABLEAU.push(b)
+//                     console.log("cestbuon")
+//                     LAFONCTION();
+//                     console.log("okcbon")
+//                     function okpasser() {
+//                  /*     if (LAFONCTION) {
+//                    
+//                       console.log("AAAA")
+//                       let c = testTABLEAU.splice(0,1);
+//                       testTABLEAU3.push(c);
+//                       document.getElementById("TABLEAU3").innerHTML = testTABLEAU3;
+//                            } */  
+//                   }
+//               } else if (testTABLEAU.length == 0) {
+//                   console.log("cestvideee")
+//                   let b = CARTE1J1.splice(0,1)
+//                   testTABLEAU3.push(b)
+//                   BOUTONCARTE1J1.value = CARTE1J1;
+//                   document.getElementById("TABLEAU3").innerHTML = testTABLEAU3;
+//                   
+//               } else { console.log("çapasse")}
+//           }
+//       }
+//       
+////                 BOUTONCARTE1J1.onclick = function cliqueCarte(){
+////               if (testTABLEAU.length == 0) {
+////                   let B = CARTE1J1.splice(0,1)
+////                   testTABLEAU.push(B)
+////                    BOUTONCARTE1J1.value = CARTE1J1;
+////               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+////               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+////                   console.log("cccbn")
+////               } /*else if (LAFONCTION == true){
+////                   console.log("pro")
+////                   let B = CARTE1J1.splice(0,1)
+////            testTABLEAU.push(B)
+////            BOUTONCARTE1J1.value = CARTE1J1;
+////            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+////            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+////               } */else {
+////                   console.log("mauvais")
+////               }
+////             /* (LAFONCTION == true) {
+////            let B = CARTE1J1.splice(0,1)
+////            testTABLEAU.push(B)
+////            BOUTONCARTE1J1.value = CARTE1J1;
+////            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+////            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+////                   console.log("ça passe")
+////            } else {
+////                console.log("ça ne marche pas")
+////            }*/
+////            
+//        }
+//   
+//        
+//            BOUTONCARTE2J1.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE2J1.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE2J1.value = CARTE2J1;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//            
+//                BOUTONCARTE3J1.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE3J1.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE3J1.value = CARTE3J1;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//                
+//                    BOUTONCARTE4J1.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE4J1.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE4J1.value = CARTE4J1;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//                        BOUTONCARTE5J1.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE5J1.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE5J1.value = CARTE5J1;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//                             BOUTONCARTE6J1.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE6J1.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE6J1.value = CARTE6J1;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//             BOUTONCARTE7J1.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE7J1.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE7J1.value = CARTE7J1;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//            
+//        
+//       
+//           BOUTONCARTE1J2.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE1J2.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE1J2.value = CARTE1J2;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } else if (testTABLEAU.length >= 1){
+//                   if (LAFONCTION == true) {
+//                 /*  
+//                   let C = CARTE1J2.splice(0,1)
+//                   testTABLEAU2.push(C)
+//                   BOUTONCARTE1J2.value = CARTE1J2;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;*/
+//                   console.log("+grand")
+//                       }
+//               } 
+//               
+//               
+//               /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//        
+//       BOUTONCARTE2J2.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE2J2.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE2J2.value = CARTE2J2;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//        
+//        BOUTONCARTE3J2.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE3J2.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE3J2.value = CARTE3J2;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//        BOUTONCARTE4J2.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE4J2.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE4J2.value = CARTE4J2;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//        BOUTONCARTE5J2.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE5J2.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE5J2.value = CARTE5J2;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//        BOUTONCARTE6J2.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE6J2.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE6J2.value = CARTE6J2;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+//             /* (LAFONCTION == true) {
+//            let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("ça passe")
+//            } else {
+//                console.log("ça ne marche pas")
+//            }*/
+//            
+//        }
+//        
+//        BOUTONCARTE7J2.onclick = function cliqueCarte(){
+//               if (testTABLEAU.length == 0) {
+//                   let B = CARTE7J2.splice(0,1)
+//                   testTABLEAU.push(B)
+//                    BOUTONCARTE7J2.value = CARTE7J2;
+//               document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//               document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//                   console.log("cccbn")
+//               } /*else if (LAFONCTION == true){
+//                   console.log("pro")
+//                   let B = CARTE1J1.splice(0,1)
+//            testTABLEAU.push(B)
+//            BOUTONCARTE1J1.value = CARTE1J1;
+//            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+//            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+//               } */else {
+//                   console.log("mauvais")
+//               }
+             /* (LAFONCTION == true) {
+            let B = CARTE1J1.splice(0,1)
+            testTABLEAU.push(B)
+            BOUTONCARTE1J1.value = CARTE1J1;
+            document.getElementById("TALONJ1").innerHTML = testTABLEAU;
+            document.getElementById("TALONJ2").innerHTML = testTABLEAU2;
+                   console.log("ça passe")
+            } else {
+                console.log("ça ne marche pas")
+            }*/
+            
+        //}
+        
+        
+        
+       /*
+        BOUTONCARTE1J1.onclick = LAFONCTION;
+        BOUTONCARTE2J1.onclick = LAFONCTION;
+        BOUTONCARTE3J1.onclick = LAFONCTION;
+        BOUTONCARTE4J1.onclick = LAFONCTION;
+        BOUTONCARTE5J1.onclick = LAFONCTION;
+        BOUTONCARTE6J1.onclick = LAFONCTION;
+        BOUTONCARTE7J1.onclick = LAFONCTION;
+    
+        BOUTONCARTE1J2.onclick = LAFONCTION;
+        BOUTONCARTE2J2.onclick = LAFONCTION;
+        BOUTONCARTE3J2.onclick = LAFONCTION;
+        BOUTONCARTE4J2.onclick = LAFONCTION;
+        BOUTONCARTE5J2.onclick = LAFONCTION;
+        BOUTONCARTE6J2.onclick = LAFONCTION;
+        BOUTONCARTE7J2.onclick = LAFONCTION;*/
+       
+
+
+
+
+              
+
+
+//je veux transferer les valeurs du tableau et tableau2 dans le tableau3 si 1 jaune est égal à 2 jaune
+//
+//let BOUTONTABLEAUU1 = document.getElementById("testTABLEAU"); 
+//let BOUTONTABLEAUU2 = document.getElementById("testTABLEAU2"); 
+//let BOUTONTABLEAUU3 = document.getElementById("testTABLEAU3"); 
+//let TRANSFERER = document.getElementById("transfert11"); 
+//
+//let testTABLEAU = ['9 rouge'];
+//let testTABLEAU2 = ['9 vert'];
+//let testTABLEAU3 = [];
+//
+//
+//
+//BOUTONTABLEAUU1.value = testTABLEAU;
+//BOUTONTABLEAUU2.value = testTABLEAU2;
+//BOUTONTABLEAUU3.value = testTABLEAU3;
+//
+//TRANSFERER.onclick = function testransfert() {
+//    if(testTABLEAU == '0 jaune' && testTABLEAU2 == '0 jaune'
+//    || testTABLEAU == '0 jaune' && testTABLEAU2 == '1 jaune'
+//    || testTABLEAU == '0 jaune' && testTABLEAU2 == '2 jaune' || testTABLEAU == '0 jaune' && testTABLEAU2 == '3 jaune' || testTABLEAU == '0 jaune' && testTABLEAU2 == '4 jaune' || testTABLEAU == '0 jaune' && testTABLEAU2 == '5 jaune' || testTABLEAU == '0 jaune' && testTABLEAU2 == '6 jaune' || testTABLEAU == '0 jaune' && testTABLEAU2 == '7 jaune' || testTABLEAU == '0 jaune' && testTABLEAU2 == '8 jaune'
+//    || testTABLEAU == '0 jaune' && testTABLEAU2 == '9 jaune'   
+//    || testTABLEAU == '0 jaune' && testTABLEAU2 == 'bloquer jaune' || testTABLEAU == '0 jaune' && testTABLEAU2 == 'inverser jaune' || testTABLEAU == '0 jaune' && testTABLEAU2 == 'bloquer jaune'|| testTABLEAU == '0 jaune' && testTABLEAU2 == '+2 jaune') {
+//        console.log("okok");
+//        return;
+//    } 

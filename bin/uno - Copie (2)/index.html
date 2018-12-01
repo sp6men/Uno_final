@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>title</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    
+  </head>
+  <body>
+      
+      
+
+        <div class="container">
+                <div class="row">
+                  <div class="col-6">
+                      <div class="joueur1">
+                        <p> Joueur numéro 1 : <span id="nomJoueur1"></span> | <br>  Cartes restantes : <br> <span id="nbrCartesJ1"></span>       <!--   <input id="passerJ1" type="button" value="Passer">-->   </p>
+                        <input id="boutonJouerJoueur1" type="button" value="Jouer">
+                    </div>
+                  </div>
+                  <div class="col-6">
+                      <div class="joueur2">
+                        <p>Joueur numéro 2 : <span id="nomJoueur2"></span> | Cartes restantes :  <br>  <span id="nbrCartesJ2"></span>         <!--     <input id="passerJ2" type="button" value="Passer"> --> </p>
+                        <input id="boutonJouerJoueur2" type="button" value="Jouer">
+                        
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="talon">
+                        <p class="text-center">LE TALON</p>
+                        <p>Carte active : <span id="carteTalon"></span></p>
+                        
+                    </div>
+                    </div>
+                </div>
+                <div class="row">
+                        <div class="col-12">
+                            <div class="pioche">
+                            <p class="text-center">LA PIOCHE</p>
+                            <p> Nombre de cartes restantes dans le paquet : <span id="nbrCartesPioche"></span> </p>
+                            <input id="boutonDistrib" type="button" value="Distribuer">
+                            </div>
+                        </div>
+                    </div>
+            </div>
+
+    
+
+<!--
+       <p> Valeur affichée : <span id="valeurAffiche"></span></p>
+        <input id="plusUn" type="button" value="Rajouter 1"> 
+        <input id="moinsUn" type="button" value="Enlever 1"> 
+    </div>
+-->
+
+    <script src="index.js"></script>
+  </body>

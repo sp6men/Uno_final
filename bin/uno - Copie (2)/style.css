@@ -1,0 +1,40 @@
+.joueur1 {
+    border: 5px solid black;
+    min-height: 30vh;
+ 
+}
+
+
+.joueur2 {
+
+      border: 5px solid red;
+      min-height: 30vh;
+         
+}
+
+.talon {
+
+    border: 5px solid #BADA55;
+    min-height: 50vh;
+}
+
+.pioche {
+
+    border: 5px solid rgb(30, 45, 109);
+    min-height: 15vh;
+}
+
+
+/* classes utilisées pour des tests sur le fichier tableaurandom*/
+.testLink {
+
+    color: red;
+}
+
+
+input {
+    background-color: transparent;
+    border:  2px solid violet;
+}
+
+
